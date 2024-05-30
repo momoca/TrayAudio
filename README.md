@@ -1,6 +1,7 @@
 # TrayAudio
 
 ![功能介绍](video.gif)
+
 这个应用程序是一个基于 Windows 的系统托盘应用，用于显示动态音频波形图标。应用程序的主要功能包括：
 
 1. **音频捕获**：使用 Windows 音频 API (`IAudioClient` 和 `IAudioCaptureClient`) 捕获系统音频输出，并对音频数据进行处理。
